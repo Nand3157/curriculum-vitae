@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#CBD5E1" stroke-width="1.5"/>
+  <!-- CV signature 3-square mark -->
+  <rect x="12" y="11" width="8" height="8" rx="1.5" fill="#F59E0B"/>
+  <rect x="22" y="11" width="8" height="8" rx="1.5" fill="#E11D48"/>
+  <rect x="32" y="11" width="8" height="8" rx="1.5" fill="#0284C7"/>
+  <!-- NP Monogram -->
+  <path d="M14 49V26H19.2L29.5 41.2V26H34.5V49H29.6L19 33.4V49H14Z" fill="#0F172A"/>
+  <path d="M39.5 49V26H48.6C53.2 26 56 28.5 56 32.8C56 37.1 53.2 39.7 48.6 39.7H44.6V49H39.5ZM44.6 35.4H48.1C50.1 35.4 51.1 34.4 51.1 32.8C51.1 31.2 50.1 30.2 48.1 30.2H44.6V35.4Z" fill="#1D4ED8"/>
+</svg>
