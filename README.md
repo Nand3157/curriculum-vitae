@@ -2,8 +2,6 @@
 
 A modern, interactive 3D portfolio website showcasing Nand Patel's education, projects, skills, and certifications. Built with React, TypeScript, Vite, and Lucide React for icons.
 
-![Preview](screenshots/preview.png)
-
 ## Overview
 
 This website presents a structured curriculum vitae with:
